@@ -1,4 +1,5 @@
 package com.alamin.translator;
+import com.google.mlkit.common.model.DownloadConditions;
 
 import android.app.*;
 import android.os.*;
